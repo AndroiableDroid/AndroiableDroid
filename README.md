@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androiabledroid&layout=compact&langs_count=20&hide=Yacc,perl,Assembly,Roff&bg_color=30,E9684A,904E95&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF)](https://github.com/androiabledroid)
 
 ## Current Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=androiabledroid&theme=react&background=45%2CE9684A%2C904E95)](https://github.com/androiabledroid)
+[![GitHub Streak]([https://streak-stats.demolab.com?user=androiabledroid&theme=react&background=45%2CE9684A%2C904E95)](https://github.com/androiabledroid)
 
 ## What I may know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
